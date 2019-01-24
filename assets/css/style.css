@@ -1,1 +1,101 @@
+body {
+    
+  background-image: url('../images/Good-Anime-Backgrounds-010.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 150%;
+  font-weight: bold;
+      
+        
+}
 
+header {
+
+    width: 300px;
+    height: 80px;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid rgb(240, 17, 17);
+  box-sizing: border-box;
+  background-color: whitesmoke;
+  
+}
+
+#gameinfo {
+    width: 50%;
+    height: 300px;
+    padding: 15px;
+    margin: 15px;
+    
+    border: 1px solid rgb(240, 17, 17);
+  box-sizing: border-box;
+  background-color: whitesmoke;
+}
+
+
+
+
+#computer {
+  width: 150px;
+  height: 180px;
+  padding: 15px;
+  margin: 15px;
+  border: 1px solid rgb(240, 17, 17);
+  box-sizing: border-box;
+  background-image: url('../images/badpokeIL075.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+      
+
+}
+
+#scoreboard {
+
+    width: 100px;
+    height: 180px;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid rgb(240, 17, 17);
+  box-sizing: border-box;
+  background-color: whitesmoke;
+  
+}
+
+
+
+
+
+.col-1 {
+    width: 40px;
+    height: 80px;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid rgb(240, 17, 17);
+  box-sizing: border-box;
+  background-image: url('../images/f9c8220d4b15912db2d06440646f12bb--stress-ball-pokemon.jpg');
+  background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.col-4 {
+
+    width:100px;
+    height: 200px;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid rgb(240, 17, 17);
+    background-image: url("../images/Pickhu.jpg");
+    background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    
+}
+
+p {
+  font-size: 70%;
+  font-weight: normal;
+}
